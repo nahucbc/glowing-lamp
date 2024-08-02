@@ -8,3 +8,5 @@
 - Nvidia
 ### Ucode
 - Amd
+### wm 
+- Openbox
