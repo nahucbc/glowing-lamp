@@ -8,5 +8,7 @@
 - Nvidia
 ### Ucode
 - Amd
-### wm 
+### Wm 
 - Openbox
+### Kernel
+- Stable
