@@ -47,7 +47,7 @@ module_kernel_requeriments_install() {
     # nfs-utils procps udev grub mcelog iptables openssl&libcrypto bc 
     # sphinx cpio tar
     # finally
-    sudo pacman -S base-devel git bc flex bison ncurses libssl
+    sudo pacman -S base-devel bc flex bison ncurses openssl
 }
 
 module_kernel_unset() {
