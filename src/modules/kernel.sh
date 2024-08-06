@@ -46,7 +46,7 @@ module_kernel_requeriments_install() {
     # e2fsprogs squashfs-tools btrfs-progs pcmciautils quota-tools PPP 
     # nfs-utils procps udev grub mcelog iptables openssl&libcrypto bc 
     # sphinx cpio tar
-    # resume
+    # finally
     sudo pacman -S base-devel git bc flex bison ncurses libssl
 }
 
